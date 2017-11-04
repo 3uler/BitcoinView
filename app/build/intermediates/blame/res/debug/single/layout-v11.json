@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bitcoin Ticker</string>
+    <string name="current_price">CURRENT PRICE</string>
+    <string name="buy_price">BUY</string>
+    <string name="sell_price">SELL</string>
+    <string name="details_tv_message">Click the button to find more details on the web.</string>
+    <string name="main_view_button_text">Go to finanzen.net</string>
+    <string name="main_menu_refresh_title">Refresh</string>
+    <string name="about">About</string>
+
+    <!--about text-->
+    <string name="about_author">This is a preview application created by 3uler.</string>
+    <string name="about_text">The bitcoin stock information is provided by the blockchain API on</string>
+    <string name="about_bc_url">https://blockchain.info</string>
+</resources>

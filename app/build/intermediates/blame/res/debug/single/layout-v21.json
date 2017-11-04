@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Philipp/.android/build-cache/05285920bf041ba591cea822ed28c7fe5d3cfb4d/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

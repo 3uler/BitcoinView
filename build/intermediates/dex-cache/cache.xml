@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2926a4fdcf151f8a7798ec99057c22a56a0cd55b">
+        <dex dex="/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_480d8c718da406d740ae6d9c58972d937df3ae43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a39efebe2f232347c2c87f5cabb320b704bf356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Philipp/.android/build-cache/8b1702a706dee4d745f1167a91edd7d4830ec12c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_066f531fc77dc4a123cec55535400d4cb2e6d8a4/classes.dex" />
+    </item>
+
+</items>

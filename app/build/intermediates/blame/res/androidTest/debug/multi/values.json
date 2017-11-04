@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/Philipp/.android/build-cache/576cb5f2a0832cd0771999ffa596ebefc8ee1d12/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

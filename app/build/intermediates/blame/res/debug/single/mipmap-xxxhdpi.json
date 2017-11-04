@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_bitcoin_square.png",
+        "source": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/src/main/res/mipmap-xxxhdpi/ic_bitcoin_square.png"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_bitcoin.png",
+        "source": "/Users/Philipp/Documents/Uni/workspace/AndroidStudioProjects/BitcoinView/app/src/main/res/mipmap-xxxhdpi/ic_bitcoin.png"
+    }
+]
